@@ -63,7 +63,9 @@ describe the way to work with several branches.
     * **git diff [file]**: Show the differences between the last commit and the current state of the file
     * **git diff [commit]**: Show the differences between the commit and the current state of the repository
     * **git diff [commit] [file]**: Show the differences between the file in the commit and the current state of the file
-    Meesing shit: * **git checkout [commit]**: Checkout the commit to the current state of the repository
+    
+    .zip over git
+
 3. working with an remote repo
     * **git push**: Push the **commited**-changes to the remote repository
     * **git pull**: Pull the changes from the remote repository
